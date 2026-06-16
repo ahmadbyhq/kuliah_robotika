@@ -1,14 +1,21 @@
 # kuliah_robotika
+
 Nama : Ahmad Baihaqi
 
-NPM  : 23081010218
+NPM : 23081010218
 
 Repositori ini berfungsi untuk menyimpan seluruh proyek, tugas, dan ujian mata kuliah Robotika
 
-Untuk video dokumentasi hasil pengujian praktikum kit IMCLab ada di bawah ini : 
+Untuk video dokumentasi hasil pengujian praktikum kit IMCLab (ETS) ada di bawah ini :
 
 ### [Hasil pengujian IMCLab Serial Arduino IDE](https://youtube.com/shorts/1LHDdN972X4)
 
 ### [Hasil pengujian IMCLAB Serial Python](https://youtube.com/shorts/OJVNoSGn9IQ?feature=share)
 
 ### [Hasil pengujian IMCLab MQTT](https://youtube.com/shorts/Bh8g27dlSL4)
+
+Untuk video dokumentasi hasil praktikum Robot BNU (EAS) ada di bawah ini :
+
+### [Hasil Praktikum Control Robot BNU melalui MQTT Panel](https://youtu.be/2uI-EH-7Wq0)
+
+### [Hasil Praktikum Control Robot BNU melalui Web](https://youtube.com/shorts/3Ygnh9RunNA?feature=share)
